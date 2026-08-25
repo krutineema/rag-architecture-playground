@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What happens when a customer forgets their password and fails the identity checks?",
+    "relevant_sources": [
+      "03-password-reset.md"
+    ]
+  },
+  {
+    "question": "What is the daily card payment limit for a new retail customer?",
+    "relevant_sources": [
+      "02-transaction-limits.md"
+    ]
+  },
+  {
+    "question": "What happens when a high-confidence fraud rule is triggered?",
+    "relevant_sources": [
+      "05-fraud-monitoring.md"
+    ]
+  },
+  {
+    "question": "Who can approve an exception to the standard transaction limit?",
+    "relevant_sources": [
+      "02-transaction-limits.md"
+    ]
+  },
+  {
+    "question": "What happens when a record reaches the end of its retention period?",
+    "relevant_sources": [
+      "06-data-retention.md"
+    ]
+  }
+]
