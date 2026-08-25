@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "query": "What is the maximum mortgage LTV for a first-time buyer?",
+    "expected_source": "mortgage-policy.md",
+    "note": "Tests retrieval of a specific policy threshold."
+  },
+  {
+    "id": "q2",
+    "query": "What happens when a mortgage application exceeds the standard LTV limit?",
+    "expected_source": "mortgage-policy.md",
+    "note": "Tests whether related rules remain retrievable."
+  },
+  {
+    "id": "q3",
+    "query": "What approval is required for a high-value payment?",
+    "expected_source": "payments-policy.md",
+    "note": "Tests a specific operational rule."
+  },
+  {
+    "id": "q4",
+    "query": "How long must customer records be retained?",
+    "expected_source": "data-retention-policy.md",
+    "note": "Tests a precise factual retrieval."
+  }
+]
