@@ -1,0 +1,86 @@
+[
+  {
+    "id": "uk_mortgage_lending_policy_2026",
+    "title": "UK Residential Mortgage Lending Policy",
+    "metadata": {
+      "country": "UK",
+      "status": "current",
+      "policy_type": "mortgage",
+      "product": "residential-lending",
+      "version": "4.2"
+    },
+    "text": "# UK Residential Mortgage Lending Policy\n\n## Purpose and scope\nThis policy defines minimum lending standards for residential mortgage applications originated by the UK retail banking business. It applies to new purchases, remortgages, product transfers and further advances secured against residential property. It must be read with affordability, responsible lending, vulnerability, financial crime and operational risk standards.\n\n## Loan-to-value limits\nFor a standard first-time buyer residential mortgage, the maximum standard loan-to-value ratio is 90 percent. For other standard residential borrowers, the maximum standard loan-to-value ratio is 80 percent. The applicable limit is determined using the lower of the independently assessed property value and purchase price where both are available.\n\nApplications above a standard LTV limit require enhanced underwriting review. The underwriter must document the reason for the exception, assess additional credit risk and obtain approval from a senior credit officer with appropriate delegated authority. A strong customer relationship or high income does not remove the enhanced review requirement.\n\n## Affordability\nAffordability must use verified income and appropriate expenditure information. The assessment must consider committed expenditure, existing credit obligations, likely interest-rate changes and other material information affecting ability to service the mortgage. Variable income may only be included where verification requirements are satisfied.\n\n## Customer vulnerability\nPotentially vulnerable customers must be handled under the customer vulnerability framework. Staff should consider whether additional support is needed to understand the product, risks, costs or implications of borrowing.\n\n## Exceptions and authority\nExceptions to standard lending criteria must identify the policy requirement being varied, the reason, additional controls and approving individual. Delegated authority limits must be respected.\n\n## Record keeping and currency\nCredit decisions, evidence and exception approvals must be retained in the designated lending record system. Where this policy conflicts with a newer approved policy, the newer policy takes precedence. Only the current approved version should be used for operational decisions."
+  },
+  {
+    "id": "uk_payments_approval_policy_2026",
+    "title": "UK Payments Approval and High-Value Transaction Policy",
+    "metadata": {
+      "country": "UK",
+      "status": "current",
+      "policy_type": "payments",
+      "product": "payments",
+      "version": "3.1"
+    },
+    "text": "# UK Payments Approval and High-Value Transaction Policy\n\n## Purpose\nThis policy establishes approval requirements for domestic and international customer payments processed by the UK payments business. It covers routine payments, high-value transactions, exceptions and transactions requiring additional review.\n\n## Standard payment approval\nPayments within normal customer limits may be released under the standard operational process provided required fraud, sanctions and account controls have completed successfully. Staff must not bypass mandatory controls because a payment is urgent or commercially important.\n\n## High-value payments\nPayments of \u00a310,000 or more require approval from an authorised payments manager unless an approved automated control provides an alternative route. Payments above \u00a350,000 require two authorised approvers. Approval must be recorded against the transaction and identify the approving individuals.\n\n## Exceptions\nExceptions to approval thresholds must be documented and approved under delegated authority. The record should state the reason, risk assessment, compensating controls and approving authority. No employee may approve their own exception.\n\n## International payments\nInternational payments may be subject to additional sanctions, financial crime and country-risk controls. A payment should not be released until mandatory controls have completed successfully.\n\n## Audit and records\nPayment approvals, exceptions and evidence must be retained in the designated transaction record. Records must demonstrate that required approval and control steps were completed."
+  },
+  {
+    "id": "uk_data_retention_policy_2026",
+    "title": "UK Customer and Transaction Data Retention Policy",
+    "metadata": {
+      "country": "UK",
+      "status": "current",
+      "policy_type": "retention",
+      "product": "all",
+      "version": "5.0"
+    },
+    "text": "# UK Customer and Transaction Data Retention Policy\n\n## Purpose and scope\nThis policy defines minimum retention requirements for customer and transaction information held by the UK business. It applies to customer account records, transaction records and supporting records required for legal, regulatory, contractual or operational purposes.\n\n## Customer account records\nCustomer account records must normally be retained for seven years after the customer relationship ends. The period is calculated from the end of the relevant relationship rather than from the date an individual document was created.\n\nRecords subject to an active legal hold must not be deleted merely because the normal retention period has expired. The legal hold process takes precedence until the hold is formally released.\n\n## Transaction records\nTransaction records must normally be retained for seven years unless a longer legal or regulatory requirement applies. Where records support an ongoing investigation, dispute, audit or legal process, deletion must be suspended under the applicable hold procedure.\n\n## Data minimisation and disposal\nRetention does not mean every copy should be retained indefinitely. Teams should avoid unnecessary duplicates and dispose of records when the applicable period expires and no hold prevents disposal. Disposal must use approved mechanisms.\n\n## Exceptions and governance\nA longer period may be required by legislation, regulatory direction, litigation, investigation or another approved requirement. Only the current approved version should be used for operational decisions. Archived copies are retained for audit history and must be clearly identified as superseded."
+  },
+  {
+    "id": "uk_access_control_policy_2026",
+    "title": "UK Enterprise Access Control Policy",
+    "metadata": {
+      "country": "UK",
+      "status": "current",
+      "policy_type": "access-control",
+      "product": "all",
+      "version": "6.0"
+    },
+    "text": "# UK Enterprise Access Control Policy\n\n## Purpose\nThis policy defines requirements for granting, reviewing and removing access to enterprise systems containing customer, financial and operational information.\n\n## Least privilege\nAccess must be granted according to the minimum permissions required for an authorised function. Privileged access must not be granted simply because a user may need it later. Temporary elevation should be used where supported.\n\n## Approval and review\nAccess requests require approval from the appropriate manager or system owner. Privileged access requires additional approval from an authorised control owner. Privileged access must be reviewed regularly and removed when no longer required.\n\n## Joiners, movers and leavers\nNew employees follow the approved onboarding process. Role changes trigger an access review. When an employee leaves, access must be removed under the offboarding process.\n\n## Service accounts\nService accounts must have documented ownership, a defined purpose and only the permissions required by the associated service. Credentials and secrets must use approved mechanisms.\n\n## Monitoring and exceptions\nAccess changes and privileged activity should be logged where possible. Exceptions must be documented, risk assessed and approved by the appropriate authority."
+  },
+  {
+    "id": "uk_fraud_monitoring_policy_2026",
+    "title": "UK Payments Fraud Monitoring Policy",
+    "metadata": {
+      "country": "UK",
+      "status": "current",
+      "policy_type": "fraud",
+      "product": "payments",
+      "version": "4.4"
+    },
+    "text": "# UK Payments Fraud Monitoring Policy\n\n## Purpose\nThis policy defines investigation and decision requirements for payment transactions identified as potentially fraudulent.\n\n## Alert handling\nHigh-confidence fraud alerts must be investigated before the affected transaction is released. Investigators must review transaction information, relevant customer context and indicators that caused the alert. If an alert is cleared, the investigator must record the rationale and supporting evidence.\n\n## Escalation\nCases with material uncertainty, significant customer impact or indicators of organised fraud should be escalated to the appropriate fraud specialist. Staff must not release a transaction simply because investigation is inconvenient or a customer requests immediate completion.\n\n## Evidence and monitoring\nInvestigation decisions must be recorded in the approved fraud case-management system. The record should identify the decision, evidence and escalation. Fraud operations should monitor alert volumes, investigation outcomes and material changes in fraud patterns."
+  },
+  {
+    "id": "uk_data_retention_policy_2021_archived",
+    "title": "UK Customer Data Retention Policy \u2014 Archived",
+    "metadata": {
+      "country": "UK",
+      "status": "archived",
+      "policy_type": "retention",
+      "product": "all",
+      "version": "3.2"
+    },
+    "text": "# UK Customer Data Retention Policy \u2014 Archived\n\n## Historical policy\nThis archived policy described historical retention requirements for customer and transaction records. It is retained for audit and historical reference only.\n\n## Historical retention period\nThe historical standard retention period for customer account and transaction records was seven years, subject to requirements applying at the time.\n\n## Superseded status\nThis document has been superseded by a newer approved retention policy. It must not be used as the current operational policy. Teams looking for current requirements must retrieve the current approved policy.\n\n## Historical exceptions\nHistorical records may refer to legal holds, investigations and other exceptions. Those records remain available for audit but do not change current policy requirements."
+  },
+  {
+    "id": "uk_mortgage_lending_policy_2024_archived",
+    "title": "UK Residential Mortgage Lending Policy \u2014 Archived",
+    "metadata": {
+      "country": "UK",
+      "status": "archived",
+      "policy_type": "mortgage",
+      "product": "residential-lending",
+      "version": "3.4"
+    },
+    "text": "# UK Residential Mortgage Lending Policy \u2014 Archived\n\n## Historical lending standards\nThis archived policy described historical residential lending requirements and is retained for audit history.\n\n## Historical LTV limits\nThe historical standard first-time buyer maximum LTV was 85 percent. Other standard residential lending was generally subject to a lower maximum. Applications above historical limits required enhanced review.\n\n## Superseded status\nThis document has been superseded and must not be used for current lending decisions. The current mortgage lending policy is maintained separately.\n\n## Historical exceptions\nHistorical lending decisions may contain exceptions and delegated approvals. Those records should be interpreted in the context of the policy version effective at the time."
+  }
+]
